@@ -1,0 +1,5 @@
+IRsend KEYWORD1
+liga KEYWORD2
+desliga KEYWORD2
+aumenta KEYWORD2
+diminui KEYWORD2
